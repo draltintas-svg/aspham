@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - /bin/python3 install-linevast.py aspham-linevast-20260929.tar.gz --sha256 a42e1e9c5eebf605928132677a6c1aded0407fd7ad5a9cc1dd823a2277e024ae
